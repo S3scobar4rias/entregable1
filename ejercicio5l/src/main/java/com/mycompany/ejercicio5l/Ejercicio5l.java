@@ -2,22 +2,22 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.ejercicio5;
+package com.mycompany.ejercicio5l;
 
 /**
  *
  * @author santi
  */
-public class Ejercicio5 {
+public class Ejercicio5l {
 
     public static void main(String[] args) {
-        short SUMA, X, Y;
+        double SUMA, X, Y;
         SUMA = 0;
         X = 20;
-        SUMA += 20;
+        SUMA += X;
         Y = 40;
-        X += X*X;
-        SUMA += (short)(X/Y);
+        X += Y*Y;
+        SUMA += (double)(X/Y);
         System.out.println("El valor de la suma es: " + SUMA);
         
                 
