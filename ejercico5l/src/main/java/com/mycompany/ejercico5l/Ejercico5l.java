@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.ejercicio5l;
+package com.mycompany.ejercico5l;
 
 /**
  *
  * @author santi
  */
-public class Ejercicio5l {
+public class Ejercico5l {
 
     public static void main(String[] args) {
         double SUMA, X, Y;
